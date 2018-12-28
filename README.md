@@ -1,2 +1,2 @@
 # FeAs-based-compound
-Here is some cif structure for FeAs-based supercdoncutors
+Here are some cif structures for FeAs-based supercdoncutors
